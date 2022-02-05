@@ -15,6 +15,7 @@ const { ccclass, property } = _decorator;
  *
  */
 
+//需要完成赛道随机生成和删除之前的赛道
 enum BlockType{
     BT_NONE,
     BT_STONE
